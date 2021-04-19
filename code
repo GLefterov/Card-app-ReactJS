@@ -1,4 +1,4 @@
-// GitHub usernames: gaearon, sophiebits, sebmarkbage, bvaughn
+
 
 const CardList = (props) => (
 	<div>
